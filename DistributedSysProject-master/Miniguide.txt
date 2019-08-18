@@ -1,0 +1,4 @@
+1. Run start rmiregistry
+2. Run your server with low security.
+java -Djava.security.policy=policy.txt Server
+3. Run client.
